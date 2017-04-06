@@ -1,6 +1,6 @@
 {
   "name": "cathedra-default-presenter",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Default presenter for cathedra",
   "main": "index.js",
   "files": [
