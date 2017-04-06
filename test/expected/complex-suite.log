@@ -1,0 +1,7 @@
+nested
+  unknown
+    unknown
+      [33m●[39m roundRandom - 725515.7895 ops/s 
+      veryNested
+        [33m●[39m powRandom - 725229.1667 ops/s 
+    [33m●[39m hello sqrt - 736236.5591 ops/s 

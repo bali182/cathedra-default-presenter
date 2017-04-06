@@ -1,0 +1,45 @@
+{
+  "name": "nested",
+  "children": [
+    {
+      "name": "unknown",
+      "children": [
+        {
+          "name": "unknown",
+          "children": [
+            {
+              "name": "roundRandom",
+              "isBenchmark": true,
+              "operations": 68924,
+              "pureTime": 95,
+              "fullTime": 100
+            },
+            {
+              "name": "veryNested",
+              "children": [
+                {
+                  "name": "powRandom",
+                  "isBenchmark": true,
+                  "operations": 69622,
+                  "pureTime": 96,
+                  "fullTime": 100
+                }
+              ],
+              "isSuite": true
+            }
+          ],
+          "isSuite": true
+        },
+        {
+          "name": "hello sqrt",
+          "isBenchmark": true,
+          "operations": 136940,
+          "pureTime": 186,
+          "fullTime": 200
+        }
+      ],
+      "isSuite": true
+    }
+  ],
+  "isSuite": true
+}

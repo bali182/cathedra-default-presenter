@@ -1,0 +1,13 @@
+{
+  "name": "random",
+  "children": [
+    {
+      "name": "roundRandom",
+      "isBenchmark": true,
+      "operations": 72576,
+      "pureTime": 89,
+      "fullTime": 100
+    }
+  ],
+  "isSuite": true
+}

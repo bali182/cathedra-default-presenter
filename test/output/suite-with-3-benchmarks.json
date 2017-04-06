@@ -1,0 +1,27 @@
+{
+  "name": "math",
+  "children": [
+    {
+      "name": "roundRandom",
+      "isBenchmark": true,
+      "operations": 46147,
+      "pureTime": 85,
+      "fullTime": 100
+    },
+    {
+      "name": "sqrtRandom",
+      "isBenchmark": true,
+      "operations": 56651,
+      "pureTime": 88,
+      "fullTime": 100
+    },
+    {
+      "name": "powRandom",
+      "isBenchmark": true,
+      "operations": 69862,
+      "pureTime": 94,
+      "fullTime": 100
+    }
+  ],
+  "isSuite": true
+}

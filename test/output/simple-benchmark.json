@@ -1,0 +1,7 @@
+{
+  "name": "roundRandom",
+  "isBenchmark": true,
+  "operations": 72639,
+  "pureTime": 93,
+  "fullTime": 100
+}
